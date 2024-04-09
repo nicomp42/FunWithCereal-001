@@ -19,7 +19,7 @@ if __name__ == "__main__":
             #print("**** Import failed for " + student + "*****")
 
     myCereals = readCSV()
-    print(myCereals)
+    #print(myCereals)
 
     for student in students:
         try:
