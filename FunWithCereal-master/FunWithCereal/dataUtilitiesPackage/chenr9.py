@@ -7,7 +7,7 @@
 #Citations:
 #Anything else that's relevant: 
 
-
+#I added the read_csv function to get it to work as I had the same error as Mac users
 #from csvUtilitiesPackage.csvUtilities import *
 import csv
 
