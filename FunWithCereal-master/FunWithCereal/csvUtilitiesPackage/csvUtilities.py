@@ -5,6 +5,44 @@
 # IS4010-001 Spring 2024
 import csv
 
+def readStudentIDs():
+    """
+    Read student IDs into a list
+    @return: The list
+    """
+    return ["battagaa",
+"bowersas",
+"chenr9",
+"drammeba",
+"elmorejc",
+"ferrismb",
+"garreaa",
+"goyalsd",
+"halbakjc",
+"hill4ju",
+"hogancg",
+"howardgy",
+"huntt3",
+"kinkadrj",
+"laughlcd",
+"ignaciac",
+"diswamsa",
+"marti6aj",
+"mcclurc2",
+"moorheaa",
+"piperec",
+"rainfojp",
+"roopnacn",
+"schillmx",
+"shermani",
+"strassks",
+"teowramm",
+"turne2jw",
+"walsh2ct",
+"ward2dc",
+"yemanert"]
+
+
 def readCSV():
     """
     Read the cereals CSV file into a list of lists
